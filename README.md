@@ -1,1 +1,7 @@
 # Software-Design-Document
+The Gaming Room wanted to expand their game, Draw It or Lose It, from Android to a web-based application so it could be used on desktops, tablets, and mobile devices. Their main requirements included platform compatibility, uniue team and player names, having only one game instance running, real-time updates and a secure scalable design. 
+I think I did well providing detaile dsolutions like using the Singleton pattern, RESTful APIs, and scalable tools like Docker. I also outlined how to make the system secure, future-proof, and easy to expand. 
+The design document gave a clear roadmap for planning and coding. It helped identify challenges early and ensured the project stayed focused on meeting the client's needs. 
+I would improve the section comparing operating platforms by adding more examples of real-world challenges, like compatibility or performance issues, to make the recommendations even stronger. 
+The design addressed the user’s needs, like ensuring unique names and scalability, while making the interface easy to use. Considering user needs is essential because it ensures the software is valuable, functional, and meets expectations.
+I used a modular approach with tools like the Singleton pattern and APIs to make the system scalable and secure. In the future, I’d add strategies like prototyping for feedback and risk assessments to handle challenges early on.
